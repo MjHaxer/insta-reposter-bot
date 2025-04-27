@@ -1,2 +1,2 @@
-instagrapi
-schedule
+instagrapi==2.0.2
+schedule==1.1.0
